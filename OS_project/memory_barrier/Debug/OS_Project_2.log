@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(36,5): warning MSB4211: "IntermediateOutputPath" 속성에 처음으로 값이 설정되고 있지만 이미 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(35,5)"에서 사용되었습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(337,5): warning MSB4211: "CleanFile" 속성에 처음으로 값이 설정되고 있지만 이미 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(35,5)"에서 사용되었습니다.
+  main.c
+  OS_Project_2.vcxproj -> E:\code\OS_Project_1\Debug\OS_Project_2.exe
